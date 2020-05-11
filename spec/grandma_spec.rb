@@ -1,4 +1,4 @@
-'#speak_to_grandma' do
+def speak_to_grandma' do
   if 'responds with I LOVE YOU TOO PUMPKIN! if you say I LOVE YOU GRANDMA!' do
   speak_to_grandma 'I LOVE YOU GRANDMA!').to eq 'I LOVE YOU TOO PUMPKIN!'
   end
